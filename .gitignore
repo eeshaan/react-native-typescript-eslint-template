@@ -1,6 +1,5 @@
 node_modules/
 .expo/
-dist/
 npm-debug.*
 *.jks
 *.p8
@@ -9,6 +8,16 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+
+# vs code
+.vscode/
+
+# jest artifacts
+coverage/
+
+# yarn
+.yarn-cache/
+yarn-error.log
 
 # macOS
 .DS_Store
