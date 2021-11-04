@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "fucking-typescript-native",
-    "slug": "fucking-typescript-native",
+    "name": "react-native-typescript-eslint-template",
+    "slug": "react-native-typescript-eslint-template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
